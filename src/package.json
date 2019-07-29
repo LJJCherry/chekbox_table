@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "reqwest": "latest",
+    "react-dom": "latest",
+    "react": "latest",
+    "antd": "latest"
+  }
+}
